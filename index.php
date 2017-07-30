@@ -9,7 +9,7 @@
 
 </body>
 <div class="container">
-    <header class="header">
+    <header class="header black-border">
         <div class="logo">
             Logo
         </div>
@@ -18,12 +18,12 @@
             <a href="#">Second</a>
             <a href="#">Third</a>
             <a href="#">Fourth</a>
-            <i class="fa fa-cogs" aria-hidden="true"></i>
+            <i class="fa fa-cogs"></i>
         </nav>
         <!-- /.logo -->
     </header>
     <div class="content-container">
-        <aside class="sidebar">
+        <aside class="sidebar black-border">
             <ul>
                 <li><a href="#">1st item</a></li>
                 <li><a href="#">2st item</a></li>
@@ -33,24 +33,33 @@
             </ul>
         </aside>
         <!-- /.sidebar -->
-        <section class="main">
+        <section class="main black-border">
             <div class="content-block">
-                Main content 1Main content 1Main content 1Main content 1Main content 1Main content 1Main content 1Main content 1Main content 1Main content 1Main content 1Main content 1Main content 1
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </div>
             <div class="content-block">
-                Main content 2Main content 2Main content 2Main content 2Main content 2
+                Lorem ipsum dolor sit amet ...
             </div>
             <div class="content-block">
-                Main content 3Main content 3Main content 3Main content 3Main content 3Main content 3Main content 3Main content 3Main content 3Main content 3Main content 3Main content 3Main content 3Main content 3Main content 3Main content 3Main content 3Main content 3Main content 3Main content 3Main content 3Main content 3
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
             </div>
             <div class="content-block">
-                Main content 4Main content 4Main content 4Main content 4Main content 4Main content 4Main content 4Main content 4Main content 4Main content 4Main content 4Main content 4Main content 4Main content 4Main content 4
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit ...
             </div>
-            <div class="content-block">Main content 5</div>
-            <div class="content-block">Main content 6</div>
-            <div class="content-block">Main content 7</div>
-            <div class="content-block">Main content 8</div>
-            <div class="content-block">Main content 9</div>
+            <div class="content-block">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            </div>
+            <div class="content-block">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </div>
+            <div class="content-block">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+            </div>
+            <div class="content-block">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            </div>
+            <div class="content-block">
+                Lorem ipsum dolor sit amet ...
+            </div>
         </section>
     </div>
     <!-- /.main -->
@@ -92,9 +101,9 @@
         </div>
         <div class="footer-block-2">
             <div>
-                <a href="">1st</a>
-                <a href="">2nd</a>
-                <a href="">3rd</a>
+                <a href="#">Home</a>
+                <a href="#">About us</a>
+                <a href="#">Contact</a>
             </div>
             <div>
                 <a href="https://facebook.com" target="_blank"><i class="fa fa-facebook"></i></a>
