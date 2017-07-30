@@ -67,35 +67,35 @@
         <div class="footer-block-1">
             <div>
                 <ul>
-                    <li><a href="#">1st item</a></li>
-                    <li><a href="#">2st item</a></li>
-                    <li><a href="#">3st item</a></li>
-                    <li><a href="#">4st item</a></li>
-                    <li><a href="#">5st item</a></li>
+                    <li><a href="#">1st link</a></li>
+                    <li><a href="#">2nd link</a></li>
+                    <li><a href="#">3rd link</a></li>
+                    <li><a href="#">4th link</a></li>
+                    <li><a href="#">5th link</a></li>
                 </ul>
             </div>
             <div>
                 <ul>
-                    <li><a href="#">1st item</a></li>
-                    <li><a href="#">2st item</a></li>
-                    <li><a href="#">3st item</a></li>
-                    <li><a href="#">4st item</a></li>
+                    <li><a href="#">1st link</a></li>
+                    <li><a href="#">2nd link</a></li>
+                    <li><a href="#">3rd link</a></li>
+                    <li><a href="#">4th link</a></li>
                 </ul>
             </div>
             <div>
                 <ul>
-                    <li><a href="#">1st item</a></li>
-                    <li><a href="#">2st item</a></li>
-                    <li><a href="#">3st item</a></li>
+                    <li><a href="#">1st link</a></li>
+                    <li><a href="#">2nd link</a></li>
+                    <li><a href="#">3rd link</a></li>
                 </ul>
             </div>
             <div>
                 <ul>
-                    <li><a href="#">1st item</a></li>
-                    <li><a href="#">2st item</a></li>
-                    <li><a href="#">3st item</a></li>
-                    <li><a href="#">4st item</a></li>
-                    <li><a href="#">5st item</a></li>
+                    <li><a href="#">1st link</a></li>
+                    <li><a href="#">2nd link</a></li>
+                    <li><a href="#">3rd link</a></li>
+                    <li><a href="#">4th link</a></li>
+                    <li><a href="#">5th link</a></li>
                 </ul>
             </div>
         </div>
